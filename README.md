@@ -1,16 +1,20 @@
-## Hi there 👋
+# rapo84 GitHub 👋
 
-<!--
-**rapo84/rapo84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que he estado trabajando y cosas que me interesan. 😊
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 💻 Apasionado por la programación y la tecnología.
+- 📚 Siempre aprendiendo cosas nuevas.
+- 🔧 Explorando nuevas herramientas y frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repositorios Destacados
+- 🛠️ [[Repositorio 1](https://github.com/rapo84/sisa-s-restaurant) - mi prima web subida a produccion.
+- 🎮 [Repositorio 2](#) - Proyecto interesante.
+- 🌎 [Repositorio 3](#) - Algo sobre web o backend.
+
+## 📫 Contacto
+Si quieres conectarte o colaborar en algún proyecto, puedes encontrarme en:
+- ✉️ Email: mv.robertoalvarado@email.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/roberto-josé-alvarado-peña-b3940b94/)
+
+¡Gracias por visitar mi perfil! 😊
