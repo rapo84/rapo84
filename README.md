@@ -9,8 +9,7 @@
 
 ## 📂 Repositorios Destacados
 - 🛠️ [[Repositorio 1](https://github.com/rapo84/sisa-s-restaurant) - mi prima web subida a produccion.
-- 🎮 [Repositorio 2](#) - Proyecto interesante.
-- 🌎 [Repositorio 3](#) - Algo sobre web o backend.
+- 🎮 [Repositorio 2]([#](https://github.com/rapo84/bot-discord)) - Proyecto para crear un bot personalizado para Discord.
 
 ## 📫 Contacto
 Si quieres conectarte o colaborar en algún proyecto, puedes encontrarme en:
