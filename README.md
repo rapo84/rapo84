@@ -7,13 +7,13 @@
 - 📚 Siempre aprendiendo cosas nuevas.
 - 🔧 Explorando nuevas herramientas y frameworks.
 
-## 📂 Repositorios Destacados
-- 🛠️ [Sisa´s Restaurant](https://github.com/rapo84/sisa-s-restaurant) - mi prima web subida a produccion.
-- 🎮 [bot discord personalizado](https://github.com/rapo84/bot-discord) - Proyecto para crear un bot personalizado para Discord.
-- 🎮 [servidor node.js sdk Firebase](https://github.com/rapo84/ServerFirebaseSDK) - Proyecto para crear un bot personalizado para Discord.
-- 🎮 [Proyecto final DAM](https://github.com/rapo84/ProyectoDAM) - Proyecto para crear un bot personalizado para Discord.
+## Repositorios Destacados
+-  [Sisa´s Restaurant](https://github.com/rapo84/sisa-s-restaurant) - mi prima web subida a produccion.
+-  [bot discord personalizado](https://github.com/rapo84/bot-discord) - Proyecto para crear un bot personalizado para Discord.
+-  [servidor node.js sdk Firebase](https://github.com/rapo84/ServerFirebaseSDK) - Proyecto para crear un bot personalizado para Discord.
+-  [Proyecto final DAM](https://github.com/rapo84/ProyectoDAM) - Proyecto para crear un bot personalizado para Discord.
 
-## 📫 Contacto
+## Contacto
 Si quieres conectarte o colaborar en algún proyecto, puedes encontrarme en:
 - ✉️ Email: mv.robertoalvarado@email.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/roberto-josé-alvarado-peña-b3940b94/)
