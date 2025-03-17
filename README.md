@@ -8,8 +8,10 @@
 - 🔧 Explorando nuevas herramientas y frameworks.
 
 ## 📂 Repositorios Destacados
-- 🛠️ [Repositorio 1](https://github.com/rapo84/sisa-s-restaurant) - mi prima web subida a produccion.
-- 🎮 [Repositorio 2](https://github.com/rapo84/bot-discord) - Proyecto para crear un bot personalizado para Discord.
+- 🛠️ [Sisa´s Restaurant](https://github.com/rapo84/sisa-s-restaurant) - mi prima web subida a produccion.
+- 🎮 [bot discord personalizado](https://github.com/rapo84/bot-discord) - Proyecto para crear un bot personalizado para Discord.
+- 🎮 [servidor node.js sdk Firebase](https://github.com/rapo84/ServerFirebaseSDK) - Proyecto para crear un bot personalizado para Discord.
+- 🎮 [Proyecto final DAM](https://github.com/rapo84/ProyectoDAM) - Proyecto para crear un bot personalizado para Discord.
 
 ## 📫 Contacto
 Si quieres conectarte o colaborar en algún proyecto, puedes encontrarme en:
