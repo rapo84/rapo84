@@ -13,7 +13,7 @@
 
 ## Contacto
 Si quieres conectarte o colaborar en algún proyecto, puedes encontrarme en:
-- ✉️ Email: mv.robertoalvarado@email.com
+- ✉️ Email: mv.robertoalvarado@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/roberto-josé-alvarado-peña-b3940b94/)
 
 ¡Gracias por visitar mi perfil! 
